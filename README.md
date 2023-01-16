@@ -1,4 +1,4 @@
-# flux_learn
+# Flux_learn
 
 ## Install flux
 
